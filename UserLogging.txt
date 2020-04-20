@@ -1,0 +1,11 @@
+Rework: 
+@ start Read in lifetime.txt
+Generate dict1
+
+Proceess for day and add to dict1 dict2
+
+@ end print out to lifetime
+
+dict1: lifetimeLog --> lifetime.txt
+dict2: daily log --> dailylog.txt
+
